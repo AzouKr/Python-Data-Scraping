@@ -23,6 +23,6 @@ To execute the project do the following steps :
   -  \>>python **UNITEX.py**
  - script that calls unitex. To be able to unitize UnitexToolLogger, you must copy Unitex-GramLab \ App UnitexToolLogger.exe in Unitex-GramLab \ French
  
-## **Data Base** Part 
+## **DataBase** Part 
   -  \>>python **SQLITE.py**
 - script to inject the contents of the "concord.html" file into a SQLite database named "extraction.db", using Python's "sqlite3" module.
