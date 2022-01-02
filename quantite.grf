@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 25 227 4 2 4 5 3 
+"" 934 537 0 
+"½+¼+¾+un+deux+trois+une+quatre+cinq+six+sept+huit+neuf\:" 1000 142 2 5 0 
+"cp+cps+c+s+gélule+injection+sachet+sachets+gélules+injections+cpr+CPR+cprs+CPRS+comprimé+comprimés+unité+unités+cuillères+cuillère+l+<litre>+dose+fois+<goute>" 365 229 3 0 7 5 
+":graphnum" 207 545 2 5 3 
+":posol" 813 537 2 1 6 
+"<E>+-+–+_+,+;+et" 888 282 1 0 
+"<TOKEN>" 33 565 1 4 
+"<E>" 1032 160 0 

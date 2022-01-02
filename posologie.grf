@@ -1,0 +1,28 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+8
+"<E>" 50 431 1 2 
+"" 1285 283 0 
+"<N+subst>" 118 432 3 4 5 7 
+"UI\/L+ml+mg+µg+g+U\/L+l+L+M+gramme+grammes" 534 132 2 5 6 
+":graphnum" 407 539 3 4 3 5 
+":quantite" 1162 282 2 1 5 
+"<TOKEN>" 881 459 1 5 
+"<MOT>" 305 185 2 4 7 
